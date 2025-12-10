@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ERT_KICAD_TEMPLATE.kicad_pro",
+    "filename": "spine.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -613,6 +613,14 @@
     [
       "9b29516b-1745-41d0-bc5f-f6cf48cfb4af",
       "Root"
+    ],
+    [
+      "19f231c9-3ea2-4c72-8861-e175feaab368",
+      "Power"
+    ],
+    [
+      "628d96ad-ccb6-491d-a37f-7a3e1150162c",
+      "Connectors"
     ]
   ],
   "text_variables": {}
