@@ -621,6 +621,10 @@
     [
       "628d96ad-ccb6-491d-a37f-7a3e1150162c",
       "Connectors"
+    ],
+    [
+      "d90de04a-6b87-4e60-965f-fd19fdd404c4",
+      "Management"
     ]
   ],
   "text_variables": {}

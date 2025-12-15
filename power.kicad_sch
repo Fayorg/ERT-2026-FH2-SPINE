@@ -11,4 +11,46 @@
 		(comment 1 "Elie Baier")
 	)
 	(lib_symbols)
+	(sheet
+		(at 305.435 81.915)
+		(size 66.675 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d90de04a-6b87-4e60-965f-fd19fdd404c4")
+		(property "Sheetname" "Management"
+			(at 305.435 81.2034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_mgmt.kicad_sch"
+			(at 305.435 96.4696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "spine"
+				(path "/9b29516b-1745-41d0-bc5f-f6cf48cfb4af/19f231c9-3ea2-4c72-8861-e175feaab368"
+					(page "4")
+				)
+			)
+		)
+	)
 )
